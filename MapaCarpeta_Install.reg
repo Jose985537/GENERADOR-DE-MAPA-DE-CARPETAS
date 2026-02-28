@@ -1,0 +1,17 @@
+﻿; ============================================================
+; MapaCarpeta_Install.reg  --  ARCHIVO OBSOLETO / DEPRECADO
+; ============================================================
+;
+; ATENCION: Este archivo NO debe usarse para la instalacion.
+; Las rutas que contiene estaban vinculadas a una maquina
+; especifica de desarrollo y NO son portables.
+;
+; ACCION REQUERIDA: Usa el instalador dinamico en su lugar:
+;
+;   --> Ejecuta como Administrador: Installer.bat
+;
+; Installer.bat detecta automaticamente la ubicacion del
+; paquete y genera las entradas de registro correctas.
+;
+; Mantenido unicamente por compatibilidad historica.
+; ============================================================

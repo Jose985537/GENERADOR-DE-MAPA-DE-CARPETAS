@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; ============================================================
+; GENERAR MAPA DE CARPETA - DESINSTALACIÓN DEL MENÚ CONTEXTUAL
+; ============================================================
+
+[-HKEY_CLASSES_ROOT\Directory\shell\MapaCarpeta]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\MapaCarpeta]
